@@ -48,3 +48,5 @@ I just can't get enough
 I just can't get enough
 
 commit 1 feature
+
+commit 2 feature
